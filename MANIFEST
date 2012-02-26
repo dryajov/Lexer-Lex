@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Lexer-Lex.t
+lib/Lexer/Lex.pm
